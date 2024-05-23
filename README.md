@@ -21,3 +21,6 @@ Continue UI development with Vite.js using the Vue.js framework, find components
 
 ## Call to API QR-CODE
 https://es.qr-code-generator.com
+
+## Necessary requirements
+![image](https://github.com/MarlonDevs/inventory-assistance/assets/99307306/a1f5a414-07e6-429d-9a27-a1f214b8c5ab)
